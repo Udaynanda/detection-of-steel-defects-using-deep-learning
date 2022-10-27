@@ -1,5 +1,5 @@
-# detection of steel defects using deep learning
- CS417 Course project - done under the guidance of Dr.Surya Prakash 
+# Detection of steel defects using Deep Learning
+ CS417 Course project - Under the guidance of Dr.Surya Prakash
  
  
  Members:
